@@ -46,7 +46,7 @@
 				 <archive>
 					<manifest>
 						<!-- Jar file entry point -->
-						<mainClass>com.jdse.duplicates.DuplicateFinderLauncher</mainClass>
+						<mainClass>com.jdse.duplicatefinder.DuplicateFinderLauncher</mainClass>
 					</manifest>
 				  </archive>
 				</configuration>
